@@ -1,0 +1,1 @@
+for<'a, 'b> fn(&'a bitcoin::bitcoin_hashes::sha256::Hash, &'b bitcoin::bitcoin_hashes::sha256::Hash) -> bool {<bitcoin::bitcoin_hashes::sha256::Hash as PartialEq>::ne}

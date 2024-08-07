@@ -1,0 +1,3 @@
+[submodule "2-implement-hashing-ksmit323"]
+	path = 2-implement-hashing-ksmit323
+	url = git@github.com:Rust-for-bitcoiners/2-implement-hashing-ksmit323.git
