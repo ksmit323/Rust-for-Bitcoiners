@@ -1,0 +1,7 @@
+target
+.gitmodules
+Cargo.lock
+.env
+node_modules
+out.txt
+.github
